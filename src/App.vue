@@ -1,19 +1,10 @@
 <template>
   <div id="app">
-    
+    <h1>To Do App</h1>
+    <hr />
+    <router-view />
   </div>
 </template>
-
-<script>
-
-
-export default {
-  name: 'App',
-  components: {
-  
-  }
-}
-</script>
 
 <style>
 #app {

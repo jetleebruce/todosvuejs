@@ -1,5 +1,7 @@
 # simonbubbles
 
+Simple Vue js Todo App just to check how some basics works in Vue
+
 ## Project setup
 ```
 npm install
